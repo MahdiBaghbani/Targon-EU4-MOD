@@ -1,0 +1,2 @@
+# Special countries..
+HTE = "countries/HolyTargonEmpire.txt"

@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = austrian_archduchy_reform
+government_rank = 3
+primary_culture = austrian
+religion = catholic
+technology_group = western
+capital = 151 # Mount Targon
+historical_friend = HUN
+historical_rival = TUR
+historical_rival = FRA
+national_focus = ADM
+
+add_accepted_culture = slovene
+
+1395.8.29 = {
+	monarch = {
+		name = "Optimus Vladius"
+		dynasty = "von Habsburg"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
